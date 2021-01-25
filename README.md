@@ -6,4 +6,4 @@ There are 2 scripts:
 
 2. ffmpeg_info.py - for get the information about files in the current directory
 
-![Alt text](screenshots/ffmpeg_info_result.png "Title")
+![Alt text](screenshots/ffmpeg_info_result.png "The result of ffmpeg_info.py ")
