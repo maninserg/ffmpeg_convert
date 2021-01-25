@@ -23,5 +23,5 @@ For example:
 
 <p align="center">
   <img src="screenshots/ffmpeg_info_result.png"/>
-<p align="center">The result's table of ffmpeg_info.py's work"<p align="center">
+<p align="center">The result table of ffmpeg_info.py's work"<p align="center">
 </p>
