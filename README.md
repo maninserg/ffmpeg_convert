@@ -1,2 +1,2 @@
 # ffmpeg_convert
-Python script for comfortable work with ffmpeg
+Python script for the more comfortable work with ffmpeg
