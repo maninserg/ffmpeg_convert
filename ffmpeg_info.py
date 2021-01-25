@@ -15,7 +15,7 @@ list_items.sort()
 
 for item in list_items:
     os.system('ffprobe -i {} -show_format | grep "filename" >> info_tmp.txt'.format(item))
-    os.system('ffprobe -i {} -show_streams | grep "codec_long_name" >> info_tmp.txt'.format(item))
+    os.system('ffprobe -i {} -show_streams | grep "codec_name" >> info_tmp.txt'.format(item))
     os.system('ffprobe -i {} -show_streams | grep "coded_width" >> info_tmp.txt'.format(item))
     os.system('ffprobe -i {} -show_streams | grep "coded_height" >> info_tmp.txt'.format(item))
     os.system('ffprobe -i {} -show_streams | grep "display_aspect_ratio" >> info_tmp.txt'.format(item))
