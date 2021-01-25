@@ -18,8 +18,7 @@ The script "ffmpeg_convert" automatic defines types of input files and chooses m
 
 You can use linux command sequences for two or more consistent convertings.
 For example:
-          `ffmpeg_convert.py -y; cd avi/; ffmpeg_convert.py`
-
+          `ffmpeg_convert.py -y; cd avi/; ffmpeg_convert.py -y`
 <hr>
 
 <p align="center">
