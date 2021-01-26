@@ -11,10 +11,10 @@
 Now the script "ffmpeg_convert.py" can make the following convertings:
 1. .divx -----> .avi
 2. .avi -----> .mpeg
-3. ts or .mts -----> .mp4
+3. .ts or .mts -----> .mp4
 4. .mp4 -----> .mp4 with resize video stream
 
-The script "ffmpeg_convert" automatic defines types of input files and chooses method of converting with parametres from the script. In the process of the converting script make a subfolder for output files. 
+The script "ffmpeg_convert" automatically  defines types of input files and chooses method of converting with parametres from the script. In the process of the converting script make a subfolder for output files. 
 
 You can use linux command sequences for two or more consistent convertings.
 For example:
