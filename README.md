@@ -28,7 +28,7 @@ For example:
 
 1. Clone the repository (or download the zip file and extract it):
 
-    `git clone git@github.com:maninserg/youtube_downloader.git`
+    `git clone git@github.com:maninserg/ffmpeg_convert.git`
     
 2. Go to the directory of the program:
 
